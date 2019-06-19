@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 nadya = LINETCR.LINE()
 #nadya.login(qr=True)
-nadya.login(token='Es617hpXi5sGU23h8890.+CiloGc16pmEt5ebFRnHSa.kxI9Inxmm32MqLSkPcU5gBOQ0ztRDDxG3hV1TVFhc28=')
+nadya.login(token='EG9PrJRcNpMFaUzjBnkb.iEKLQqr+KXdSVGWpsvd/QW.8XLywbqgg57gPRgN3g66V0KNdoMA814pNwNSnyPcS6o=')
 nadya.loginResult()
 print "Nadya-Login Success\n\n=====[Sukses Login]====="
 
@@ -279,8 +279,8 @@ helpMessage ="""
 KAC=[nadya]
 mid = nadya.getProfile().mid
 Bots=[mid]
-Creator=["u722fa0d22435d1fed3cf3d4c28373baa"]
-admin=["ufdc20b3a00b5e8f31e4f91017eb361b0"]
+Creator=["u21e925a9047f9310ecbe0c0f4950feab"]
+admin=["u21e925a9047f9310ecbe0c0f4950feab"]
 
 contact = nadya.getProfile()
 backup1 = nadya.getProfile()
